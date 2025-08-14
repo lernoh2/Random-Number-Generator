@@ -3,7 +3,7 @@ pragma solidity 0.8.19;
 
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
-contract BoardRandom_V18 {
+contract BoardRandom_V19 {
     IERC20 public token;
     address public owner;
     address public source1;
